@@ -1,7 +1,7 @@
 # e19868m20s-LORA-module-with-ESP8266
 EBYTE e19868m20s LORA module with ESP8266, how to connect and example software
 
-The EBYTE e19868m20s has to soldered on a breadboard , see my pictures.
+The EBYTE e19868m20s has to be soldered on a breadboard , see my pictures.
 The EBYTE e19868m20s is normally used with a SMD designed PCB.
 
 Connection with the ESP8266 as receiver:
